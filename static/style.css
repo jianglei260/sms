@@ -1,0 +1,38 @@
+.menu-button {
+    width: 60%;
+    height: 60px;
+    text-align: center;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.container {
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.conetent-container {
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.header-container {
+    width: 80%;
+    height: 100px;
+}
+
+.header-right {
+    float: right;
+    text-align: center;
+    line-height: 100px;
+}
+
+.form-container {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
